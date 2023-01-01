@@ -26,5 +26,14 @@
 #   print(a[i] + b[i]) 
 #   i +=1
 
-if 10>5 and 3>1:
-     print("Cool:)")
+# if 10>5 and 3>1:
+#      print("Cool:)")
+
+# paint = input("enter paint: ")
+
+# i = 0
+# while i < len(paint):
+#     if paint[i] in "aeiou":
+#         print(str(i)+ "-"+ paint[i])
+#     i += 1    
+

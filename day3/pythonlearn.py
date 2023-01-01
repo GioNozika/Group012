@@ -64,7 +64,7 @@
 #     print("Sorry 🙁 You lose")    
 
 
-# საშინაო დავალება N33
+# საშინაო დავალება N3
 
 num1 = int(input("enter num1: "))
 num2 = int(input("enter num2: "))
